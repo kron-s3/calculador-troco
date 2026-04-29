@@ -10,5 +10,4 @@ O cálculo manual de troco:
 Automatizar o cálculo de troco de forma rápida, precisa e confiável.
 
 ### Tecnologias usadas
-´´´md
 - Python 3
